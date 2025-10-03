@@ -1,1 +1,1 @@
-console.log(brokenVariable);
+consol.lo("Fixed!");
